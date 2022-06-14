@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rescii
 - 👀 I’m interested in CLI Tools / White Hat
-- 🌱 I’m currently learning Java, NodeJS
+- 🌱 I’m currently learning Java, NodeJS, C++, And C#
 - 💞️ I’m currently not looking to collaborate on anything.
 - 📫 You can reach me via twitter
 
