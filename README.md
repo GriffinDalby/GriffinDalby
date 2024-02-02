@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @Rescii
-- 👀 I’m interested in CLI Tools / White Hat
-- 🌱 I’m currently learning Java, NodeJS, C++, And C#
-- 💞️ I’m currently not looking to collaborate on anything.
-- 📫 You can reach me via twitter
-
-<!---
-Rescii/Rescii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hey! I'm Griffin! Im building up a resume to help me with different oppertunties and to get my skills out there!
+I'm interested in App / Game development, getting my roots from Roblox Development and currently trying to branch out.
+Fluent in Lua due to my previous history, learning the C family, java, and java script.
